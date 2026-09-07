@@ -27,9 +27,9 @@ The House of Representatives shall chuse their Speaker and other Officers; and s
 
 ### Section. 3.
 
-The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.
+The Senate of the United States shall be composed of two Senators from each State, elected by the People thereof, for six Years; and each Senator shall have one Vote. The Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislatures.
 
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
+Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year. When Vacancies happen in the Representation of any State in the Senate, the Executive Authority of such State shall issue Writs of Election to fill such Vacancies: Provided, that the Legislature of any State may empower the Executive thereof to make temporary Appointments until the People fill the Vacancies by Election as the Legislature may direct.
 
 No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.
 
