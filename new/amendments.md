@@ -137,22 +137,6 @@ This amendment shall not be so construed as to affect the election or term of an
 
 ---
 
-## Amendment. XVIII.
-
-### Section. 1.
-
-After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
-
-### Section. 2.
-
-The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
-
-### Section. 3.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
-
----
-
 ## Amendment. XIX.
 
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
@@ -186,22 +170,6 @@ Sections 1 and 2 shall take effect on the 15th day of October following the rati
 ### Section. 6.
 
 This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
-
----
-
-## Amendment. XXI.
-
-### Section. 1.
-
-The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
-
-### Section. 2.
-
-The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-
-### Section. 3.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 ---
 
