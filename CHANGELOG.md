@@ -2,11 +2,9 @@
 
 Legal-text changes to `new/` and `amended/`, grouped by git tag. GitHub releases use the same milestones.
 
-## [Unreleased]
-
 ## [spent-text-removed] - 2026-09-07
 
-Spent and superseded clauses removed from `new/`. Remaining amendments are still a separate list; they have not been folded into the articles.
+Spent and superseded clauses removed from new/. The articles now state current operative rules where a later amendment had already replaced the 1787 text. Remaining amendments are still a separate list, to be folded in later.
 
 ### new/
 
@@ -31,7 +29,7 @@ Spent and superseded clauses removed from `new/`. Remaining amendments are still
 
 ### amended/
 
-- Removed leftover closing markdown fences. No legal text changed.
+- No legal text changed.
 
 [Unreleased]: https://github.com/PatrioticConstitution/EnduringRepublicInitiative/compare/spent-text-removed...HEAD
 [spent-text-removed]: https://github.com/PatrioticConstitution/EnduringRepublicInitiative/releases/tag/spent-text-removed
