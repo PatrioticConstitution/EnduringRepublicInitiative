@@ -150,10 +150,6 @@ The Congress may by law provide for the case of the death of any of the persons 
 
 No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
 
-### Section. 2.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
-
 ---
 
 ## Amendment. XXIII.
