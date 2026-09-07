@@ -144,14 +144,6 @@ The Congress may by law provide for the case of the death of any of the persons 
 
 ---
 
-## Amendment. XXII.
-
-### Section. 1.
-
-No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
-
----
-
 ## Amendment. XXIII.
 
 ### Section. 1.
