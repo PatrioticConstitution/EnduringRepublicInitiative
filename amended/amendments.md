@@ -1,4 +1,3 @@
-```markdown
 # Amendments to the Constitution of the United States
 
 ## Amendment. I.

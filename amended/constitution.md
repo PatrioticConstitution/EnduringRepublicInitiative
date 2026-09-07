@@ -1,4 +1,3 @@
-```markdown
 # The Constitution of the United States
 
 ## Preamble
