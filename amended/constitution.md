@@ -254,4 +254,3 @@ done in Convention by the Unanimous Consent of the States present the Seventeent
 
 **G°. Washington**  
 Presidt and deputy from Virginia
-```
