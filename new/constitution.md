@@ -111,8 +111,6 @@ To make all Laws which shall be necessary and proper for carrying into Execution
 
 ### Section. 9.
 
-The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
-
 The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
 
 No Bill of Attainder or ex post facto Law shall be passed.
