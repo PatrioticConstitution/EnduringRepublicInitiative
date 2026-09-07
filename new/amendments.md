@@ -137,22 +137,6 @@ This amendment shall not be so construed as to affect the election or term of an
 
 ---
 
-## Amendment. XVIII.
-
-### Section. 1.
-
-After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
-
-### Section. 2.
-
-The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
-
-### Section. 3.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
-
----
-
 ## Amendment. XIX.
 
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
@@ -167,10 +151,6 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
 
-### Section. 2.
-
-The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
-
 ### Section. 3.
 
 If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
@@ -178,30 +158,6 @@ If, at the time fixed for the beginning of the term of the President, the Presid
 ### Section. 4.
 
 The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
-
-### Section. 5.
-
-Sections 1 and 2 shall take effect on the 15th day of October following the ratification of this article.
-
-### Section. 6.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
-
----
-
-## Amendment. XXI.
-
-### Section. 1.
-
-The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
-
-### Section. 2.
-
-The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-
-### Section. 3.
-
-This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 ---
 
