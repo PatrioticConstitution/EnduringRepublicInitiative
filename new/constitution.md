@@ -220,6 +220,12 @@ The Congress shall have Power to dispose of and make all needful Rules and Regul
 
 The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
 
+### Section. 5.
+
+Neither Slavery nor involuntary Servitude, except as a Punishment for Crime whereof the Party shall have been duly convicted, shall exist within the United States, or any Place subject to their Jurisdiction.
+
+The Congress shall have Power to enforce this Section by appropriate Legislation.
+
 ---
 
 ## Article. V.
