@@ -242,3 +242,47 @@ This Constitution, and the Laws of the United States which shall be made in Purs
 
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.
 
+---
+
+## Article. VII.
+
+### Section. 1.
+
+Congress shall make no Law respecting an Establishment of Religion, or prohibiting the free Exercise thereof; or abridging the Freedom of Speech, or of the Press; or the Right of the People peaceably to assemble, and to petition the Government for a Redress of Grievances.
+
+### Section. 2.
+
+A well regulated Militia, being necessary to the Security of a free State, the Right of the People to keep and bear Arms, shall not be infringed.
+
+### Section. 3.
+
+No Soldier shall, in Time of Peace be quartered in any House, without the Consent of the Owner, nor in Time of War, but in a Manner to be prescribed by Law.
+
+### Section. 4.
+
+The Right of the People to be secure in their Persons, Houses, Papers, and Effects, against unreasonable Searches and Seizures, shall not be violated, and no Warrants shall issue, but upon probable Cause, supported by Oath or Affirmation, and particularly describing the Place to be searched, and the Persons or Things to be seized.
+
+### Section. 5.
+
+No Person shall be held to answer for a capital, or otherwise infamous Crime, unless on a Presentment or Indictment of a Grand Jury, except in Cases arising in the land or naval Forces, or in the Militia, when in actual Service in Time of War or public Danger; nor shall any Person be subject for the same Offence to be twice put in Jeopardy of Life or Limb; nor shall be compelled in any criminal Case to be a Witness against himself, nor be deprived of Life, Liberty, or Property, without due Process of Law; nor shall private Property be taken for public Use, without just Compensation.
+
+### Section. 6.
+
+In all criminal Prosecutions, the accused shall enjoy the Right to a speedy and public Trial, by an impartial Jury of the State and District wherein the Crime shall have been committed, which District shall have been previously ascertained by Law, and to be informed of the Nature and Cause of the Accusation; to be confronted with the Witnesses against him; to have compulsory Process for obtaining Witnesses in his Favor, and to have the Assistance of Counsel for his Defence.
+
+### Section. 7.
+
+In Suits at common Law, where the Value in Controversy shall exceed twenty Dollars, the Right of Trial by Jury shall be preserved, and no Fact tried by a Jury, shall be otherwise re-examined in any Court of the United States, than according to the Rules of the common Law.
+
+### Section. 8.
+
+Excessive Bail shall not be required, nor excessive Fines imposed, nor cruel and unusual Punishments inflicted.
+
+### Section. 9.
+
+The enumeration in the Constitution, of certain Rights, shall not be construed to deny or disparage others retained by the People.
+
+### Section. 10.
+
+The Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the People.
+
