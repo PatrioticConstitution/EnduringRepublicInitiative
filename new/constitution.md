@@ -254,3 +254,27 @@ This Constitution, and the Laws of the United States which shall be made in Purs
 
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.
 
+---
+
+## Article. VII.
+
+### Section. 1.
+
+All Persons born or naturalized in the United States, and subject to the Jurisdiction thereof, are Citizens of the United States and of the State wherein they reside. No State shall make or enforce any Law which shall abridge the Privileges or Immunities of Citizens of the United States; nor shall any State deprive any Person of Life, Liberty, or Property, without due Process of Law; nor deny to any Person within its Jurisdiction the equal Protection of the Laws.
+
+### Section. 2.
+
+Representatives shall be apportioned among the several States according to their respective Numbers, counting the whole Number of Persons in each State. But when the right to vote at any Election for the choice of Electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial Officers of a State, or the Members of the Legislature thereof, is denied to any of the Inhabitants of such State, being eighteen years of age, and Citizens of the United States, or in any way abridged, except for participation in Rebellion, or other Crime, the Basis of Representation therein shall be reduced in the Proportion which the Number of such Citizens shall bear to the whole Number of Citizens eighteen years of age in such State.
+
+### Section. 3.
+
+No Person shall be a Senator or Representative in Congress, or Elector of President and Vice-President, or hold any Office, civil or military, under the United States, or under any State, who, having previously taken an Oath, as a Member of Congress, or as an Officer of the United States, or as a Member of any State Legislature, or as an executive or judicial Officer of any State, to support the Constitution of the United States, shall have engaged in Insurrection or Rebellion against the same, or given Aid or Comfort to the Enemies thereof. But Congress may by a Vote of two-thirds of each House, remove such Disability.
+
+### Section. 4.
+
+The Validity of the public Debt of the United States, authorized by Law, including Debts incurred for Payment of Pensions and Bounties for Services in suppressing Insurrection or Rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any Debt or Obligation incurred in Aid of Insurrection or Rebellion against the United States, or any Claim for the Loss or Emancipation of any Slave; but all such Debts, Obligations and Claims shall be held illegal and void.
+
+### Section. 5.
+
+The Congress shall have Power to enforce, by appropriate Legislation, the Provisions of this Article.
+
