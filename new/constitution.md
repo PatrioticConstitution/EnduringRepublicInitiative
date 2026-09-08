@@ -136,6 +136,18 @@ No State shall, without the Consent of the Congress, lay any Imposts or Duties o
 
 No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
+### Section. 11.
+
+The right of Citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+The right of Citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
+
+The right of Citizens of the United States to vote in any primary or other Election for President or Vice President, for Electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll Tax or other Tax.
+
+The right of Citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.
+
+The Congress shall have Power to enforce these Provisions by appropriate Legislation.
+
 ---
 
 ## Article. II.
