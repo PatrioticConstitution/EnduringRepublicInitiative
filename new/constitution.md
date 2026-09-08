@@ -162,7 +162,7 @@ In Case of the Removal of the President from Office or of his Death or Resignati
 
 Whenever there is a Vacancy in the Office of the Vice President, the President shall nominate a Vice President who shall take Office upon Confirmation by a Majority Vote of both Houses of Congress.
 
-If the Offices of both President and Vice President are vacant, the Congress may by Law declare what Officer shall then act as President, and such Officer shall act accordingly, until a President shall have qualified.
+The Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
 
 Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written Declaration that he is unable to discharge the Powers and Duties of his Office, and until he transmits to them a written Declaration to the contrary, such Powers and Duties shall be discharged by the Vice President as Acting President.
 
