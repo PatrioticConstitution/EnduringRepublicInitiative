@@ -44,6 +44,8 @@ Judgment in Cases of Impeachment shall not extend further than to removal from O
 
 The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations.
 
+The Terms of Senators and Representatives shall end at noon on the 3d day of January, and the Terms of their Successors shall then begin.
+
 The Congress shall assemble at least once in every Year, and such Meeting shall begin at noon on the 3d day of January, unless they shall by Law appoint a different Day.
 
 ### Section. 5.
@@ -142,13 +144,17 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 
 ### Section. 1.
 
-The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows
+The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows. The Terms of the President and Vice President shall end at noon on the 20th day of January, and the Terms of their Successors shall then begin.
 
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
 
 The Electors shall meet in their respective States and vote by Ballot for President and Vice-President, one of whom, at least, shall not be an Inhabitant of the same State with themselves; they shall name in their Ballots the Person voted for as President, and in distinct Ballots the Person voted for as Vice-President, and they shall make distinct Lists of all Persons voted for as President, and of all Persons voted for as Vice-President, and of the Number of Votes for each, which Lists they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates and the Votes shall then be counted; -- The Person having the greatest Number of Votes for President, shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if no Person have such Majority, then from the Persons having the highest Numbers not exceeding three on the List of those voted for as President, the House of Representatives shall chuse immediately, by Ballot, the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; a quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. The Person having the greatest Number of Votes as Vice-President, shall be the Vice-President, if such Number be a Majority of the whole Number of Electors appointed, and if no Person have a Majority, then from the two highest Numbers on the List, the Senate shall chuse the Vice-President; a quorum for the Purpose shall consist of two thirds of the whole Number of Senators, and a Majority of the whole Number shall be necessary to a Choice. But no Person constitutionally ineligible to the Office of President shall be eligible to that of Vice-President of the United States.
 
 The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.
+
+If, at the Time fixed for the beginning of the Term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the Time fixed for the beginning of his Term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by Law provide for the Case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the Manner in which one who is to act shall be selected, and such Person shall act accordingly until a President or Vice President shall have qualified.
+
+The Congress may by Law provide for the Case of the Death of any of the Persons from whom the House of Representatives may chuse a President whenever the Right of Choice shall have devolved upon them, and for the Case of the Death of any of the Persons from whom the Senate may chuse a Vice President whenever the Right of Choice shall have devolved upon them.
 
 No Person except a natural born Citizen shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
 
