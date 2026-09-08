@@ -114,12 +114,6 @@ The Congress shall have power to enforce this article by appropriate legislation
 
 ---
 
-## Amendment. XVI.
-
-The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
-
----
-
 ## Amendment. XIX.
 
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
