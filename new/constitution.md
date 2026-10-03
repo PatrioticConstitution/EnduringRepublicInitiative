@@ -154,6 +154,8 @@ The Congress may determine the Time of chusing the Electors, and the Day on whic
 
 No Person except a natural born Citizen shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
 
+No Person shall be elected to the Office of the President more than twice, and no Person who has held the Office of President, or acted as President, for more than two Years of a Term to which some other Person was elected President shall be elected to the Office of the President more than once.
+
 In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
 
 The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
@@ -187,6 +189,8 @@ The judicial Power of the United States, shall be vested in one supreme Court, a
 ### Section. 2.
 
 The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;— between a State and Citizens of another State,—between Citizens of different States,—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
+
+The judicial Power shall not be construed to extend to any Suit in Law or Equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
 In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
 
@@ -287,4 +291,28 @@ The enumeration in the Constitution, of certain Rights, shall not be construed t
 ### Section. 10.
 
 The Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the People.
+
+---
+
+## Article. VIII.
+
+### Section. 1.
+
+All Persons born or naturalized in the United States, and subject to the Jurisdiction thereof, are Citizens of the United States and of the State wherein they reside. No State shall make or enforce any Law which shall abridge the Privileges or Immunities of Citizens of the United States; nor shall any State deprive any Person of Life, Liberty, or Property, without due Process of Law; nor deny to any Person within its Jurisdiction the equal Protection of the Laws.
+
+### Section. 2.
+
+Representatives shall be apportioned among the several States according to their respective Numbers, counting the whole Number of Persons in each State. But when the right to vote at any Election for the choice of Electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial Officers of a State, or the Members of the Legislature thereof, is denied to any of the Inhabitants of such State, being eighteen years of age, and Citizens of the United States, or in any way abridged, except for participation in Rebellion, or other Crime, the Basis of Representation therein shall be reduced in the Proportion which the Number of such Citizens shall bear to the whole Number of Citizens eighteen years of age in such State.
+
+### Section. 3.
+
+No Person shall be a Senator or Representative in Congress, or Elector of President and Vice-President, or hold any Office, civil or military, under the United States, or under any State, who, having previously taken an Oath, as a Member of Congress, or as an Officer of the United States, or as a Member of any State Legislature, or as an executive or judicial Officer of any State, to support the Constitution of the United States, shall have engaged in Insurrection or Rebellion against the same, or given Aid or Comfort to the Enemies thereof. But Congress may by a Vote of two-thirds of each House, remove such Disability.
+
+### Section. 4.
+
+The Validity of the public Debt of the United States, authorized by Law, including Debts incurred for Payment of Pensions and Bounties for Services in suppressing Insurrection or Rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any Debt or Obligation incurred in Aid of Insurrection or Rebellion against the United States, or any Claim for the Loss or Emancipation of any Slave; but all such Debts, Obligations and Claims shall be held illegal and void.
+
+### Section. 5.
+
+The Congress shall have Power to enforce, by appropriate Legislation, the Provisions of this Article.
 
