@@ -44,6 +44,8 @@ Judgment in Cases of Impeachment shall not extend further than to removal from O
 
 The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations.
 
+The Terms of Senators and Representatives shall end at noon on the 3d day of January, and the Terms of their Successors shall then begin.
+
 The Congress shall assemble at least once in every Year, and such Meeting shall begin at noon on the 3d day of January, unless they shall by Law appoint a different Day.
 
 ### Section. 5.
@@ -154,7 +156,7 @@ The Congress shall have Power to enforce these Provisions by appropriate Legisla
 
 ### Section. 1.
 
-The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows
+The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows. The Terms of the President and Vice President shall end at noon on the 20th day of January, and the Terms of their Successors shall then begin.
 
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
 
@@ -164,11 +166,25 @@ The Electors shall meet in their respective States and vote by Ballot for Presid
 
 The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.
 
+If, at the Time fixed for the beginning of the Term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the Time fixed for the beginning of his Term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by Law provide for the Case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the Manner in which one who is to act shall be selected, and such Person shall act accordingly until a President or Vice President shall have qualified.
+
+The Congress may by Law provide for the Case of the Death of any of the Persons from whom the House of Representatives may chuse a President whenever the Right of Choice shall have devolved upon them, and for the Case of the Death of any of the Persons from whom the Senate may chuse a Vice President whenever the Right of Choice shall have devolved upon them.
+
 No Person except a natural born Citizen shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
 
 No Person shall be elected to the Office of the President more than twice, and no Person who has held the Office of President, or acted as President, for more than two Years of a Term to which some other Person was elected President shall be elected to the Office of the President more than once.
 
-In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
+In Case of the Removal of the President from Office or of his Death or Resignation, the Vice President shall become President.
+
+Whenever there is a Vacancy in the Office of the Vice President, the President shall nominate a Vice President who shall take Office upon Confirmation by a Majority Vote of both Houses of Congress.
+
+The Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
+
+Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written Declaration that he is unable to discharge the Powers and Duties of his Office, and until he transmits to them a written Declaration to the contrary, such Powers and Duties shall be discharged by the Vice President as Acting President.
+
+Whenever the Vice President and a Majority of either the principal Officers of the executive Departments or of such other Body as Congress may by Law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written Declaration that the President is unable to discharge the Powers and Duties of his Office, the Vice President shall immediately assume the Powers and Duties of the Office as Acting President.
+
+Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written Declaration that no Inability exists, he shall resume the Powers and Duties of his Office unless the Vice President and a Majority of either the principal Officers of the executive Departments or of such other Body as Congress may by Law provide, transmit within four Days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written Declaration that the President is unable to discharge the Powers and Duties of his Office. Thereupon Congress shall decide the Issue, assembling within forty-eight Hours for that Purpose if not in Session. If the Congress, within twenty-one Days after Receipt of the latter written Declaration, or, if Congress is not in Session, within twenty-one Days after Congress is required to assemble, determines by two-thirds Vote of both Houses that the President is unable to discharge the Powers and Duties of his Office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the Powers and Duties of his Office.
 
 The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
 
