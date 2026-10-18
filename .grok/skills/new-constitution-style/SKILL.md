@@ -1,14 +1,14 @@
 ---
 name: new-constitution-style
 description: >-
-  Apply the review principles for new/constitution.md. Use when reviewing
-  changes, running /review, /new-constitution-style, or a code review, and
-  when editing new/constitution.md.
+  Apply the review principles for newly written text in new/constitution.md.
+  Use when reviewing changes, running /review, /new-constitution-style, or a
+  code review, and when writing or editing new/constitution.md.
 ---
 
 # New constitution review
 
-The principles have one home: `new/AGENTS.md`. Read that file before you edit `new/constitution.md`, and before you review a diff that touches it.
+The principles have one home: `new/AGENTS.md`. They apply to wording a change adds or rewrites. Read that file before you write in `new/constitution.md`, and before you review a diff that touches it.
 
 The bundled review skill decides how a review runs. This skill adds those principles to that review. When you launch a reviewer subagent and the diff touches `new/constitution.md`:
 
