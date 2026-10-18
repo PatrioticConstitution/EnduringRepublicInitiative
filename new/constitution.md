@@ -16,7 +16,7 @@ All legislative powers herein granted shall be vested in a Congress of the Unite
 
 The House of Representatives shall be composed of members chosen every second year by the people of the several States, and the electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislature.
 
-No person shall be a Representative who shall not have attained to the age of twenty-five years, and been seven years a citizen of the United States, and who shall not, when elected, be an inhabitant of that State in which he shall be chosen.
+No person shall be a Representative who shall not have attained the age of twenty-five years, and been seven years a citizen of the United States, and who shall not, when elected, be an inhabitant of that State in which he shall be chosen.
 
 Representatives and direct taxes shall be apportioned among the several States which may be included within this union, according to their respective numbers, counting the whole number of persons in each State. The actual enumeration shall be made within every term of ten years, in such manner as they shall by law direct. The number of Representatives shall not exceed one for every thirty thousand, but each State shall have at least one Representative.
 
@@ -30,7 +30,7 @@ The Senate of the United States shall be composed of two Senators from each Stat
 
 Immediately after they shall be assembled in consequence of the first election, they shall be divided as equally as may be into three classes. The seats of the Senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and of the third class at the expiration of the sixth year, so that one-third may be chosen every second year. When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies, provided that the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
 
-No person shall be a Senator who shall not have attained to the age of thirty years, and been nine years a citizen of the United States, and who shall not, when elected, be an inhabitant of that State for which he shall be chosen.
+No person shall be a Senator who shall not have attained the age of thirty years, and been nine years a citizen of the United States, and who shall not, when elected, be an inhabitant of that State for which he shall be chosen.
 
 The Vice President of the United States shall be President of the Senate, but shall have no vote, unless they are equally divided.
 
@@ -54,7 +54,7 @@ Each House shall be the judge of the elections, returns, and qualifications of i
 
 Each House may determine the rules of its proceedings, punish its members for disorderly behavior, and, with the concurrence of two-thirds, expel a member.
 
-Each House shall keep a journal of its proceedings, and from time to time publish the same, excepting such parts as may in their judgment require secrecy; and the yeas and nays of the members of either House on any question shall, at the desire of one-fifth of those present, be entered on the journal.
+Each House shall keep a journal of its proceedings, and from time to time publish the same, except such parts as may in their judgment require secrecy; and the yeas and nays of the members of either House on any question shall, at the desire of one-fifth of those present, be entered on the journal.
 
 Neither House, during the session of Congress, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two Houses shall be sitting.
 
@@ -70,7 +70,7 @@ No Senator or Representative shall, during the time for which he was elected, be
 
 All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with amendments as on other bills.
 
-Every bill which shall have passed the House of Representatives and the Senate shall, before it becomes a law, be presented to the President of the United States; if he approves, he shall sign it, but if not, he shall return it, with his objections to that House in which it shall have originated, who shall enter the objections at large on their journal, and proceed to reconsider it. If after such reconsideration two-thirds of that House shall agree to pass the bill, it shall be sent, together with the objections, to the other House, by which it shall likewise be reconsidered, and if approved by two-thirds of that House, it shall become a law. But in all such cases the votes of both Houses shall be determined by yeas and nays, and the names of the persons voting for and against the bill shall be entered on the journal of each House respectively. If any bill shall not be returned by the President within ten days (Sundays excepted) after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it, unless the Congress by their adjournment prevent its return, in which case it shall not be a law.
+Every bill which shall have passed the House of Representatives and the Senate shall, before it becomes a law, be presented to the President of the United States; if he approves, he shall sign it, but if not, he shall return it, with his objections to that House in which it shall have originated, who shall enter the objections at large on their journal, and proceed to reconsider it. If after such reconsideration two-thirds of that House shall agree to pass the bill, it shall be sent, together with the objections, to the other House, by which it shall likewise be reconsidered, and if approved by two-thirds of that House, it shall become a law. But in all such cases the votes of both Houses shall be determined by yeas and nays, and the names of the persons voting for and against the bill shall be entered on the journal of each House respectively. If any bill shall not be returned by the President within ten days (except Sundays) after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it, unless the Congress by their adjournment prevent its return, in which case it shall not be a law.
 
 Every order, resolution, or vote to which the concurrence of the Senate and House of Representatives may be necessary (except on a question of adjournment) shall be presented to the President of the United States and, before the same shall take effect, shall be approved by him, or being disapproved by him, shall be repassed by two-thirds of the Senate and House of Representatives, according to the rules and limitations prescribed in the case of a bill.
 
@@ -106,11 +106,11 @@ To provide and maintain a Navy;
 
 To make rules for the government and regulation of the land and naval forces;
 
-To provide for calling forth the militia to execute the laws of the union, suppress insurrections and repel invasions;
+To provide for calling forth the militia to execute the laws of the union, suppress insurrections, and repel invasions;
 
-To provide for organizing, arming, and disciplining, the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the States respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;
+To provide for organizing, arming, and disciplining the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the States respectively the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;
 
-To exercise exclusive legislation in all cases whatsoever, over such District (not exceeding ten miles square) as may, by cession of particular States, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the State in which the same shall be, for the erection of forts, magazines, arsenals, dock-yards, and other needful buildings;—and
+To exercise exclusive legislation in all cases whatsoever, over such District (not exceeding ten miles square) as may, by cession of particular States, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the State in which the same shall be, for the erection of forts, magazines, arsenals, dock-yards, and other needful buildings; and
 
 To make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof.
 
@@ -162,7 +162,7 @@ Each State shall appoint, in such manner as the legislature thereof may direct, 
 
 The District constituting the seat of the government of the United States shall appoint in such manner as the Congress may direct a number of electors of President and Vice President equal to the whole number of Senators and Representatives to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by this article. The Congress shall have power to enforce this provision by appropriate legislation.
 
-The electors shall meet in their respective States and vote by ballot for President and Vice President, one of whom, at least, shall not be an inhabitant of the same State with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- the person having the greatest number of votes for President shall be the President, if such number is a majority of the whole number of electors appointed; and if no person has such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by States, the representation from each State having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the States, and a majority of all the States shall be necessary to a choice. The person having the greatest number of votes as Vice President shall be the Vice President, if such number is a majority of the whole number of electors appointed, and if no person has a majority, then from the two highest numbers on the list, the Senate shall choose the Vice President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice President of the United States.
+The electors shall meet in their respective States and vote by ballot for President and Vice President, one of whom, at least, shall not be an inhabitant of the same State with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; the person having the greatest number of votes for President shall be the President, if such number is a majority of the whole number of electors appointed; and if no person has such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by States, the representation from each State having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the States, and a majority of all the States shall be necessary to a choice. The person having the greatest number of votes as Vice President shall be the Vice President, if such number is a majority of the whole number of electors appointed, and if no person has a majority, then from the two highest numbers on the list, the Senate shall choose the Vice President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice President of the United States.
 
 The Congress may determine the time of choosing the electors, and the day on which they shall give their votes, which day shall be the same throughout the United States.
 
@@ -170,7 +170,7 @@ If, at the time fixed for the beginning of the term of the President, the Presid
 
 The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
 
-No person except a natural-born citizen shall be eligible to the office of President; neither shall any person be eligible to that office who shall not have attained to the age of thirty-five years, and been fourteen years a resident within the United States.
+No person except a natural-born citizen shall be eligible to the office of President; neither shall any person be eligible to that office who shall not have attained the age of thirty-five years, and been fourteen years a resident within the United States.
 
 No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
 
@@ -188,7 +188,7 @@ Thereafter, when the President transmits to the President pro tempore of the Sen
 
 The President shall, at stated times, receive for his services, a compensation, which shall neither be increased nor diminished during the period for which he shall have been elected, and he shall not receive within that period any other emolument from the United States, or any of them.
 
-Before he enters on the execution of his office, he shall take the following oath or affirmation:—"I do solemnly swear (or affirm) that I will faithfully execute the office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."
+Before he enters on the execution of his office, he shall take the following oath or affirmation: "I do solemnly swear (or affirm) that I will faithfully execute the office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."
 
 ### Section. 2.
 
@@ -216,13 +216,13 @@ The judicial power of the United States shall be vested in one Supreme Court, an
 
 ### Section. 2.
 
-The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;—to all cases affecting ambassadors, other public ministers, and consuls;—to all cases of admiralty and maritime jurisdiction;—to controversies to which the United States shall be a party;—to controversies between two or more States;—between a State and citizens of another State,—between citizens of different States,—between citizens of the same State claiming lands under grants of different States, and between a State, or the citizens thereof, and foreign States, citizens or subjects.
+The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; to all cases affecting ambassadors, other public ministers, and consuls; to all cases of admiralty and maritime jurisdiction; to controversies to which the United States shall be a party; to controversies between two or more States; between a State and citizens of another State; between citizens of different States; between citizens of the same State claiming lands under grants of different States; and between a State, or the citizens thereof, and foreign States, citizens, or subjects.
 
 The judicial power shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by citizens of another State, or by citizens or subjects of any foreign State.
 
-In all cases affecting ambassadors, other public ministers, and consuls, and those in which a State shall be a party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
+In all cases affecting ambassadors, other public ministers, and consuls, and those in which a State shall be a party, the Supreme Court shall have original jurisdiction. In all the other cases mentioned before, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
 
-The trial of all crimes, except in cases of impeachment, shall be by jury; and such trial shall be held in the State where the said crimes shall have been committed; but when not committed within any State, the trial shall be at such place or places as the Congress may by law have directed.
+The trial of all crimes, except in cases of impeachment, shall be by jury; and such trial shall be held in the State where the crimes shall have been committed; but when not committed within any State, the trial shall be at such place or places as the Congress may by law have directed.
 
 ### Section. 3.
 
@@ -274,7 +274,7 @@ All debts contracted and engagements entered into, before the adoption of this C
 
 This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every State shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding.
 
-The Senators and Representatives before mentioned, and the members of the several State legislatures, and all executive and judicial officers, both of the United States and of the several States, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
+The Senators and Representatives mentioned before, and the members of the several State legislatures, and all executive and judicial officers, both of the United States and of the several States, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
 
 ---
 
