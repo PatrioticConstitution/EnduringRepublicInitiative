@@ -1,17 +1,16 @@
 ---
 name: new-constitution-style
 description: >-
-  Enforce the style of new/constitution.md on review and on edit. Use when
-  reviewing changes, running /review, /new-constitution-style, or a code
-  review, and when editing new/constitution.md, including its capitalization,
-  spelling, and grammar.
+  Apply the review principles for new/constitution.md. Use when reviewing
+  changes, running /review, /new-constitution-style, or a code review, and
+  when editing new/constitution.md.
 ---
 
-# New constitution style
+# New constitution review
 
-The rules have one home: `new/AGENTS.md`. Read that file before you edit `new/constitution.md`, and before you review a diff that touches it.
+The principles have one home: `new/AGENTS.md`. Read that file before you edit `new/constitution.md`, and before you review a diff that touches it.
 
-The bundled review skill decides how a review runs. This skill adds the standard to that review. When you launch a reviewer subagent and the diff touches `new/constitution.md`:
+The bundled review skill decides how a review runs. This skill adds those principles to that review. When you launch a reviewer subagent and the diff touches `new/constitution.md`:
 
 1. Read `new/AGENTS.md`.
 2. Append its full text to the reviewer prompt, after the review skill's template.
