@@ -4,6 +4,8 @@ Legal-text changes to `new/` and `amended/`, grouped by git tag. GitHub releases
 
 ## [amendments-folded] - 2026-10-18
 
+This is intended as the final version that retains the operative meaning of the original document.
+
 ### new/
 
 - Folded the remaining amendments into the articles and removed `new/amendments.md`. The Bill of Rights is Article VII, the 14th is Article VIII, and the others sit in the article each one changes.
