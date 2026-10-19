@@ -4,21 +4,12 @@ Legal-text changes to `new/` and `amended/`, grouped by git tag. GitHub releases
 
 ## [amendments-folded] - 2026-10-18
 
-Every remaining amendment is now operative text in the articles. `new/amendments.md` is removed.
+This is intended as the final version that retains the operative meaning of the original document.
 
 ### new/
 
-- Folded the 27th into Article I §6. No law varying the compensation of Senators and Representatives takes effect until an election of Representatives.
-- Folded the 16th into Article I §8. Congress may tax incomes without apportionment among the States.
-- Folded the 15th, 19th, 24th, and 26th into Article I §11. The vote is not denied for race, sex, failure to pay a tax, or age of eighteen and over.
-- Folded the 23rd into Article II. The seat of government appoints electors for President and Vice President.
-- Folded the remaining 20th into Articles I and II. The terms of the President and Vice President end at noon on January 20. If the President elect has died, the Vice President elect becomes President. If the President elect has failed to qualify, the Vice President elect acts until a President qualifies.
-- Folded the 22nd into Article II. No person is elected President more than twice.
-- Folded the 25th into Article II. On removal, death, or resignation, the Vice President becomes President. The sentence that the powers and duties devolve on the Vice President is removed.
-- Folded the 11th into Article III §2. The judicial power does not extend to a suit against a State by citizens of another State or of a foreign State.
-- Folded the 13th into Article IV §5. Neither slavery nor involuntary servitude shall exist, except as punishment for a crime.
-- Folded the first ten amendments in as Article VII.
-- Folded the 14th in as Article VIII: citizenship, the apportionment penalty, disqualification, the public debt, and enforcement.
+- Folded the remaining amendments into the articles and removed `new/amendments.md`. The Bill of Rights is Article VII, the 14th is Article VIII, and the others sit in the article each one changes.
+- Made spelling and grammar consistent with current American usage. Operative meaning is unchanged.
 
 ### amended/
 
